@@ -44,7 +44,7 @@
                 if (options.axisX.name) {
                     $chart
                         .append('<div class="ct-axis-label '+ options.axisX.className +'">' +
-                            options.axisX.name +
+                            '<span>' + options.axisX.name + '</span>' +
                             '</div>')
                         .find('.' + options.axisX.className);
                 }
@@ -52,7 +52,7 @@
                 if (options.axisY.name) {
                     $chart
                         .append('<div class="ct-axis-label '+ options.axisY.className +'">' +
-                            options.axisY.name +
+                            '<span>' + options.axisY.name + '</span>' +
                             '</div>')
                         .find('.' + options.axisY.className);
                 }
