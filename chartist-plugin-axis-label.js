@@ -10,7 +10,7 @@
         // like Node.
         module.exports = factory(require('chartist'), require('jquery'));
     } else {
-        root['Chartist.plugins.axis-label'] = factory(root.chartist, root.jquery);
+        root['Chartist.plugins.axisLabel'] = factory(root.chartist, root.jquery);
     }
 }(this, function () {
 
