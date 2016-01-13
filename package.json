@@ -1,12 +1,12 @@
 {
-    "name": "chartist-plugin-axis-label",
-    "version": "0.0.7",
-    "license": "ISC",
-    "author": "Kees Kluskens <kees@codeyellow.nl>",
-    "description": "Show X and Y labels plugin for Chartist.js.",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/CodeYellowBV/chartist-plugin-axis-label"
-    },
-    "main": "chartist-plugin-axis-label.js"
+  "name": "chartist-plugin-axis-label",
+  "version": "0.0.8",
+  "license": "ISC",
+  "author": "Kees Kluskens <kees@codeyellow.nl>",
+  "description": "Show X and Y labels plugin for Chartist.js.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeYellowBV/chartist-plugin-axis-label"
+  },
+  "main": "chartist-plugin-axis-label.js"
 }
